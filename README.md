@@ -1,3 +1,7 @@
+This repos is deprecated and obsolete. Please use this:
+
+https://github.com/metaDMG-dev/metaDMG-cpp
+
 ## [![tests](https://github.com/ANGSD/metadamage/actions/workflows/make.yml/badge.svg)](https://github.com/ANGSD/metadamage/actions/workflows/make.yml) metadamage
 
 # Introduction
